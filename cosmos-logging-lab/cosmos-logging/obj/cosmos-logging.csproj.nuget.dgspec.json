@@ -46,13 +46,17 @@
               "target": "Package",
               "version": "[33.0.2, )"
             },
+            "Microsoft.Azure.Cosmos": {
+              "target": "Package",
+              "version": "[3.17.1, )"
+            },
             "System.Linq": {
               "target": "Package",
               "version": "[4.3.0, )"
             },
             "System.Linq.Expressions": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[4.3.0, )"
             }
           },
           "imports": [
